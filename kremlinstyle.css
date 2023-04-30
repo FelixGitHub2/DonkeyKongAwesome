@@ -1,0 +1,86 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("stage.jpg")
+    
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(9, 102, 37);
+    color: #fff;
+    padding: 10px 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    
+    
+}
+
+nav h1 
+{
+    padding: 0px 220px;
+    
+}
+
+.kremlinlogo
+{
+    margin-top: 17%;
+    margin-left: 27%;
+}
+
+.grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0px;
+}
+
+.kroolpush
+{
+    margin-left: 108%;
+    margin-top: 16%;
+}
+
+.gridlol
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.krool
+{
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+
+h2
+{
+
+   text-align: center;
+   border: 5px solid black;
+   background-size: cover;
+   background-color: rgb(9, 102, 37);
+   
+}
+
+.dk64funky
+{
+    margin-left: 10%;
+}
+
+audio
+{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+.dk64diddy
+{
+    margin-left: 15%;
+}
+

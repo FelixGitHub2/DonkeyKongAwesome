@@ -1,0 +1,60 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("maxresdefault.jpg")
+    
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(213, 3, 3);
+    color: #fff;
+    padding: 10px 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    
+    
+}
+
+nav h1 
+{
+    padding: 0px 220px;
+    
+}
+
+
+
+h2
+{
+   margin-top: 20%;
+   text-align: center;
+   border: 5px solid black;
+   background-image: url(banan.jpg);
+   background-size: cover;
+   
+}
+
+.grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+
+img
+{
+    margin-top: 20%;
+}
+
+.kroolimg
+{
+    margin-left: 25%;
+}
+
+a:hover {
+    font-size: 20px;
+}
